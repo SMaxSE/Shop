@@ -39,4 +39,51 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Администрирование</subsystems>
+  <subsystems>Subsystem.Кадры</subsystems>
+  <subsystems>Subsystem.Отчёты</subsystems>
+  <subsystems>Subsystem.Планирование</subsystems>
+  <subsystems>Subsystem.Покупки</subsystems>
+  <subsystems>Subsystem.Продажи</subsystems>
+  <subsystems>Subsystem.СкладИДоставка</subsystems>
+  <subsystems>Subsystem.Справочники</subsystems>
+  <commonForms>CommonForm.ФормаВводаМестаРождения</commonForms>
+  <catalogs>Catalog.ВидыДокументовУдостоверяющиеЛичность</catalogs>
+  <catalogs>Catalog.ВидыНоменклатуры</catalogs>
+  <catalogs>Catalog.ВидыЦенНоменклатуры</catalogs>
+  <catalogs>Catalog.ВидыЦенНоменклатурыПоставщиков</catalogs>
+  <catalogs>Catalog.Города</catalogs>
+  <catalogs>Catalog.Должности</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Магазины</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.НоменклатурныеГруппы</catalogs>
+  <catalogs>Catalog.ОснованияДляУвольнения</catalogs>
+  <catalogs>Catalog.Подразделения</catalogs>
+  <catalogs>Catalog.Роли</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Страны</catalogs>
+  <catalogs>Catalog.ФизическиеЛица</catalogs>
+  <documents>Document.КадровыеПеревод</documents>
+  <documents>Document.ПоставлениеНоменклатуры</documents>
+  <documents>Document.ПриёмНаРаботу</documents>
+  <documents>Document.РеализацияНоменклатуры</documents>
+  <documents>Document.Увольнение</documents>
+  <documents>Document.УстановкаЦенНоменклатуры</documents>
+  <documentJournals>DocumentJournal.КадровыеДокументы</documentJournals>
+  <enums>Enum.ВидКонтактныхДанных</enums>
+  <enums>Enum.ВидыЗанятости</enums>
+  <enums>Enum.Образование</enums>
+  <enums>Enum.Пол</enums>
+  <enums>Enum.СпособОплатыТовара</enums>
+  <enums>Enum.СпособПолученияТовара</enums>
+  <reports>Report.ОтчетПоКадрам</reports>
+  <reports>Report.ОтчетПоТоварнымОстаткам</reports>
+  <reports>Report.ОтчётПоЦенамНоменклатуры</reports>
+  <informationRegisters>InformationRegister.ВидыЗанятостиСотрудников</informationRegisters>
+  <informationRegisters>InformationRegister.КадроваяИсторияСотрудников</informationRegisters>
+  <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.ДенежныеСредства</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ТоварыНаСкладе</accumulationRegisters>
 </mdclass:Configuration>

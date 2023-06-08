@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7303afd1-01b4-4e47-a08c-49fd04c32088">
+  <producedTypes>
+    <refType typeId="73b7d411-b19c-4e38-80f0-8526ac4bc97b" valueTypeId="37137193-e383-4015-abff-d0a311b6c6c7"/>
+    <listType typeId="1f5fe61a-fb3a-41c0-b020-7ecf911f57d9" valueTypeId="e327e9da-0f91-4e33-8c39-8a5646278178"/>
+    <managerType typeId="d20f9056-89b3-4e77-aa34-8a169ed2ad66" valueTypeId="f6bde7fd-0ff7-460b-89d6-560e64ec5bbd"/>
+  </producedTypes>
+  <name>ВидКонтактныхДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вид контактных данных</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="705286b0-33d5-49b5-b7ac-766a05c61fb9">
+    <name>Адрес</name>
+    <synonym>
+      <key>ru</key>
+      <value>Адрес</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="3c4a819d-69ba-475a-ac2f-81e19535259f">
+    <name>Телефон</name>
+    <synonym>
+      <key>ru</key>
+      <value>Телефон</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
